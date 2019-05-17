@@ -6,7 +6,7 @@ TaobaoHelper 是一个Xposed模块， 由于淘宝业务数据请求有一个签
 
 #### 接口定位
 
-
+![签名函数](https://github.com/Poyu222/TaobaoHelper/blob/master/docs/calsigin.jpg?raw=true)
 
 
 
